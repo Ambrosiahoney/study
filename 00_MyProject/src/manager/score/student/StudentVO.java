@@ -9,3 +9,4 @@ public class StudentVO {
 	private int total;
 	private double average;
 }
+ 
